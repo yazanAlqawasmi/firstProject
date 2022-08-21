@@ -69,10 +69,8 @@ def lj (your_name):
 lj("nono")
 
 def gh(momo,roro):
-
-
-    N=lm(100,800)
-print(gh)
+    N=(100,800)
+    print(gh)
 
 
 

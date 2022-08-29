@@ -67,12 +67,10 @@ print(n)
 def lj (your_name):
    print("welcam", your_name, )
 lj("nono")
-
 def gh(momo,roro):
+    N=(100,800)
+    print(gh)
 
-
-    N=lm(100,800)
-print(gh)
 
 
 
